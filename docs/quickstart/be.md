@@ -1,6 +1,7 @@
 # 手机版教程
 ## 1. 下载客户端
-**[点我去苦力怕论坛下载](https://mcapks.net/?u=MS4yMS40NC4wMQ==)**
+**[点我去MC版本库下载](https://bbk.endyun.ltd/download/1.21.44)**
+**[点我去苦力怕论坛下载](https://mcapks.net/info.php?vs=MS4yMS40NC4wMQ%3D%3D&key=4beea16c56eca4fc9079d4f3a92c57b9)**
 :::warning 无法安装？
 若您的系统阻止您安装，请尝试关闭手机自带的守护功能。若提示应用有风险，请下载完安装包后断网安装
 :::
