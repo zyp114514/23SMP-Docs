@@ -9,7 +9,7 @@ hero:
   actions:
     - theme: brand
       text: 快速上手
-      link: /quickstart/index
+      link: /blank
     - theme: alt
       text: 查看文档
       link: /api-examples
