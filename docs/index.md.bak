@@ -3,9 +3,9 @@
 layout: home
 
 hero:
-  name: "服务器名字"
-  text: "全世界最擅长奸懒馋滑的互通服务器"
-  tagline: 心有傲骨，励志鸿鹄。并肩奋斗，风雨无阻。老弱病残，全力以赴。身残志坚，共展宏图
+  name: "23SMP"
+  text: "23中人自己的MCSMP"
+  tagline: 基岩Java互通
   actions:
     - theme: brand
       text: 快速上手
