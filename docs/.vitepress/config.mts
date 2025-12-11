@@ -2,7 +2,7 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "23SMP",
+  title: "My Awesome Project",
   description: "A VitePress Site",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
@@ -13,10 +13,10 @@ export default defineConfig({
 
     sidebar: [
       {
-        text: '快速上手',
+        text: 'Examples',
         items: [
-          { text: '基岩版(手机)', link: '/quickstart/be' },
-          { text: 'Java版(电脑)', link: '/quickstart/je' }
+          { text: 'Markdown Examples', link: '/markdown-examples' },
+          { text: 'Runtime API Examples', link: '/api-examples' }
         ]
       }
     ],
