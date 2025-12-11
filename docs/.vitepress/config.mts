@@ -2,27 +2,23 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "My Awesome Project",
-  description: "A VitePress Site",
+  title: "23SMP",
+  description: "23中人自己的SMP",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
-      { text: 'Home', link: '/' },
-      { text: 'Examples', link: '/markdown-examples' }
+      { text: '主页', link: '/' },
+      { text: '教程', link: '/blank' }
     ],
 
     sidebar: [
       {
-        text: 'Examples',
+        text: '快速上手',
         items: [
-          { text: 'Markdown Examples', link: '/markdown-examples' },
-          { text: 'Runtime API Examples', link: '/api-examples' }
+          { text: 'Java版快速上手(电脑)', link: '/quickstart/je' },
+          { text: '基岩版快速上手(手机)', link: '/quickstart/be' }
         ]
       }
     ],
-
-    socialLinks: [
-      { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
-    ]
   }
 })
