@@ -9,10 +9,10 @@ hero:
   actions:
     - theme: brand
       text: 快速上手
-      link: /blank
+      link: /quickstart/qsindex
     - theme: alt
       text: 查看文档
-      link: /api-examples
+      link: /blank
 
 features:
   - title: 服务器Q群
