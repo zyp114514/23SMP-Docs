@@ -2,8 +2,8 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "23SMP",
-  description: "23中人自己的SMP",
+  title: "CCB游乐园",
+  description: "都怪王若然",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
