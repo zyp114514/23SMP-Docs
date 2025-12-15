@@ -17,6 +17,10 @@ export default defineConfig({
         items: [
           { text: 'Java版快速上手(电脑)', link: '/quickstart/je' },
           { text: '基岩版快速上手(手机)', link: '/quickstart/be' }
+        text: 'Java版教程'
+        items: [
+          { text: '懒人包', link: '/je/jelzpak' },
+          ]
         ]
       }
     ],
