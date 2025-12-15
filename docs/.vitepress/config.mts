@@ -20,7 +20,7 @@ export default defineConfig({
         ]
       },
       {
-        text: 'Java版教程'
+        text: 'Java版教程',
         items: [
           { text: '懒人包', link: '/je/jelzpak' },
         ]
