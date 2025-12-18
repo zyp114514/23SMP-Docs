@@ -9,7 +9,7 @@ hero:
   actions:
     - theme: brand
       text: 快速上手
-      link: /quickstart/qsindex
+      link: /intro
     - theme: alt
       text: 查看文档
       link: /blank
