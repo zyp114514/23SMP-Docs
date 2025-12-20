@@ -6,6 +6,19 @@ export default defineConfig({
   description: "都怪王若然",
   lastUpdated : true,
   themeConfig: {
+  docFooter: {
+      prev: '上一页',
+      next: '下一页'
+    },
+
+    outline: {
+      label: '页面导航'
+    },
+
+    lastUpdated: {
+      text: '最后更新于'
+    },,
+
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: '主页', link: '/' },
