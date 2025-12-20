@@ -16,6 +16,11 @@
 如果您使用电脑访问本网页，则您不需要任何操作，Memu和On this page已经默认展开在左右两侧
 
 页面底部显示了两个大按钮，其中，按Previous Page访问上一页，按Next Page访问下一页。
+## 关于服务器(必看)
+服务器基于Leaves核心(Paper分支)，本质为Java版服务器，所有特性与Java版同步，如红石BUD、攻击冷却等。
+
+[查看全部特性](/blank)
+
 ## 快速上手
 不想读完整篇内容？
 请访问[此页面](/quickstart/qsindex)

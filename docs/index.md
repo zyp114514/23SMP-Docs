@@ -8,10 +8,10 @@ hero:
   tagline: 心有傲骨，励志鸿鹄。并肩奋斗，风雨无阻。老弱病残，全力以赴。身残志坚，共展宏图
   actions:
     - theme: brand
-      text: 快速上手
+      text: 开始教程
       link: /intro
     - theme: alt
-      text: 查看文档
+      text: 加入Q群
       link: /blank
 
 features:

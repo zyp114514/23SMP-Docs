@@ -4,6 +4,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "CCB游乐园",
   description: "都怪王若然",
+  lastUpdated : true,
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
