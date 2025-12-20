@@ -17,7 +17,7 @@ export default defineConfig({
 
     lastUpdated: {
       text: '最后更新于'
-    },,
+    },
 
     // https://vitepress.dev/reference/default-theme-config
     nav: [
